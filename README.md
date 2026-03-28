@@ -22,7 +22,7 @@ PCとスマホでレイアウトを切り替える基本的な考え方を学ん
 HTML構造とCSS指定（クラス・ID）の関係を整理できた  
 
 ## 公開URL
-（ここにGitHub PagesのURL）
+https://satoru-tanaka-1977.github.io/codejump-beginner-01-my-work/
 
 ## 感想
 見本を再現するだけでなく、自分で考えながら実装することで理解が深まった。  
